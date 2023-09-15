@@ -1,5 +1,14 @@
+body{
+background-color: darkolivegreen;
+
+}
+
+
+
+
+
 h1 {
     color: rgb(0, 80, 0);
     font-size: 50px;
     text-align: center;
-}
+text-transform: uppercase;}
