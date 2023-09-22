@@ -9,9 +9,13 @@ background-color: darkolivegreen;
 
 nav li {
     display: inline;
-    padding: 20;
+    padding: 20px;
 }
-
+nav a {text-transform: uppercase ;
+font-weight: lighter;
+font-size: 30px;
+color: white;
+}
 #banner {
     width: 100%;
 }
