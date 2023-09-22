@@ -7,6 +7,11 @@ background-color: darkolivegreen;
 
 }
 
+nav li {
+    display: inline;
+    padding: 20;
+}
+
 #banner {
     width: 100%;
 }
